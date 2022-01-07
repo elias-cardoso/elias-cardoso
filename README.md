@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 
 
 ## 👋 Hi there! I'm Elias Cardoso, Salesforce technical leader at Fielo Technologies!
+- 🌱 I’m currently learning Node and React
+- 😄 Pronouns: He/His
+- ⚡ Fun fact: I have a dog named Johnnie Walker (Black Label)
 <div align="center">
   <a href="https://github.com/elias-cardoso">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=elias-cardoso&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
